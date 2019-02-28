@@ -1,4 +1,4 @@
-# AppManager
+# 用于APP 异常崩溃捕获处理。
 An elegant exit application and restart mechanism management.
 #### 号外：听说「nanchen」搞了一个 Android 开发者的免费福利，不行你看：[给 Android 开发者的一点福利：免费模拟面试](http://mp.weixin.qq.com/s/WRdSmGxwDp-CpQcSlmJYlg)
 
